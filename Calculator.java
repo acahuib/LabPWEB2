@@ -6,7 +6,8 @@ public class Calculator {
         return r; 
     }
     int sub(int a, int b){
-        return 0;
+        int x = a - b;
+        return x;
     }
     int mul(int a, int b){
         int r = a * b; 
